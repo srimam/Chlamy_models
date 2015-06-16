@@ -1,4 +1,4 @@
-# Chlamy_Metabolic_model
+# Chlamy Metabolic model
 Metabolic models for Chlamydomonas reinhardtii
 This repository will include:
 1. SBML files for simulating growth on autotrophic, mixotrophic and heterotrophic conditions
