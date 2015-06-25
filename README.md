@@ -1,10 +1,10 @@
 # Chlamy Metabolic model
-Metabolic models for Chlamydomonas reinhardtii
-This repository will includes:
+Metabolic models for Chlamydomonas reinhardtii.<br>
+This repository includes:
 <p>
 1. SBML files for simulating growth on autotrophic, mixotrophic and heterotrophic conditions
 <br>
-2. File mapping for genes to transcripts
+2. Files mapping for genes to transcripts
 <br>
 3. Matlab code for running FBA and single gene deletion analysis
 <br>
